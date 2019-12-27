@@ -1,6 +1,9 @@
 # MTCNN_MobileFacenet_NCNN_Android
-A android demo based on NCNN :   MTCNN for face detect, MobileFacenet for  face verification.
+​           结果1                                                                                                                                        结果2
 
-![avatar](result_01.jpg)
+<center class="half">
+    <img src="result_01.jpg" style="zoom:20%" div align=left>       <img src="result_02.jpg" style="zoom:20%" div align=right>
+</center>
 
-![avatar](result_02.jpg)
+
+
